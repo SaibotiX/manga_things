@@ -1,49 +1,47 @@
 import json
-import keyboard
 
-running = True
+infile = open("grow.json")
 
-def on_hotkey():
-    global running
-    running = False
+data = json.load(infile)
 
-# Register the hotkey
-keyboard.add_hotkey('ctrl+shift+a', on_hotkey)
+nested_dict = data[0]
 
-# Your forever loop
-count = 0
-while running:
-    # Your code here
-    count = count + 1
+last_key = list(nested_dict.keys())[-1]
+last_value = nested_dict[last_key]
 
-# Clean up
+new_item = {last_key : last_value}
+
+keys = list(nested_dict.keys())
+
+for i in keys:
+    if i == "test2":
+        print(i)
 
 
-#def verify_data(data):
-#    for data_instance in data:
-#        if data_instance.get("Verify") == "N":
-#            print("Verify: ")
-#            print(json.dumps(data_instance, indent=4))
+
+
+
+
+
+
+
+
+
+
+#print(data)
 #
-#            user_input = input("(C)orrect or (D)elete: ")
+#print()
 #
-#            if user_input.upper() == "C":
-#                data_instance["Verify"] = "Y"
-#            else:
-#                data.remove(data_instance)
-#                
-#    return data
+#print(json.dumps(nested_dict, indent=4))
 #
-#dict1 =[{"Probe1" : 1,
-#         'Verify':'N'},
-#        {"Probe2" : 2,
-#         'Verify':'Y'},
-#        {"Probe3" : 3,
-#        'Verify':'N'}]
+#print()
 #
-#test = json.dumps(dict1, indent=4)
-#print('test', test)
+#print(last_key)
 #
-#dict1 = verify_data(dict1)
-#print(json.dumps(dict1, indent=4))
+#print()
 #
+#print(last_value)
+#
+#print()
+#
+#print(new_item)
