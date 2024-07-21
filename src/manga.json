@@ -1,0 +1,1407 @@
+[
+    {
+        "裏切っ": {
+            "Instance Count": 0,
+            "Furigana": "うらぎっ",
+            "Main Result": {
+                "裏切る": {
+                    "Furigana": "うら ぎ x ",
+                    "English Translation": {
+                        "Vocab0": "to betray; to turn traitor (to); to double-cross; to go back on; to be unfaithful (to)",
+                        "Vocab1": "to disappoint; to let down"
+                    }
+                }
+            }
+        },
+        "たり": {
+            "Instance Count": 1,
+            "Main Result": {
+                "たり": {
+                    "Furigana": "x x ",
+                    "English Translation": {
+                        "Vocab0": "-ing and -ing (e.g. \"coming and going\")",
+                        "Vocab1": "doing such things as...",
+                        "Vocab2": "expresses a command"
+                    }
+                }
+            }
+        },
+        "する": {
+            "Instance Count": 2,
+            "Main Result": {
+                "為る": {
+                    "Furigana": "す x ",
+                    "English Translation": {
+                        "Vocab0": "to do; to carry out; to perform",
+                        "Vocab1": "to cause to become; to make (into); to turn (into)",
+                        "Vocab2": "to serve as; to act as; to work as"
+                    }
+                }
+            }
+        },
+        "はず": {
+            "Instance Count": 3,
+            "Main Result": {
+                "筈": {
+                    "Furigana": "はず ",
+                    "English Translation": {
+                        "Vocab0": "should (be); bound (to be); expected (to be); must (be)",
+                        "Vocab1": "nock (of a bow)",
+                        "Vocab2": "nock (of an arrow)"
+                    }
+                }
+            }
+        },
+        "ない": {
+            "Instance Count": 4,
+            "Main Result": {
+                "無い": {
+                    "Furigana": "な x ",
+                    "English Translation": {
+                        "Vocab0": "nonexistent; not being (there)",
+                        "Vocab1": "unowned; not had; unpossessed",
+                        "Vocab2": "unique"
+                    }
+                }
+            }
+        },
+        "のに": {
+            "Instance Count": 5,
+            "Main Result": {
+                "のに": {
+                    "Furigana": "x x ",
+                    "English Translation": {
+                        "Vocab0": "although; despite; even though; and yet",
+                        "Vocab1": "whereas; while",
+                        "Vocab2": "if only; I wish"
+                    }
+                }
+            }
+        },
+        "は": {
+            "Instance Count": 6,
+            "Main Result": {
+                "は": {
+                    "Furigana": "x ",
+                    "English Translation": {
+                        "Vocab0": "indicates sentence topic",
+                        "Vocab1": "indicates contrast with another option (stated or unstated)",
+                        "Vocab2": "adds emphasis"
+                    }
+                }
+            }
+        },
+        "いつ": {
+            "Instance Count": 7,
+            "Main Result": {
+                "何時": {
+                    "Furigana": "いつ x ",
+                    "English Translation": {
+                        "Vocab0": "when; at what time; how soon",
+                        "Vocab1": "normal times; ordinary days"
+                    }
+                }
+            }
+        },
+        "でも": {
+            "Instance Count": 8,
+            "Main Result": {
+                "でも": {
+                    "Furigana": "x x ",
+                    "English Translation": {
+                        "Vocab0": "but; however; though; nevertheless; still; yet; even so; also; as well",
+                        "Vocab1": "even",
+                        "Vocab2": "however; no matter how; even if; even though"
+                    }
+                }
+            }
+        },
+        "あたし": {
+            "Instance Count": 9,
+            "Main Result": {
+                "私": {
+                    "Furigana": "あたし ",
+                    "English Translation": {
+                        "Vocab0": "I; me",
+                        "Vocab1": "私 【あたくし】"
+                    }
+                }
+            }
+        },
+        "を": {
+            "Instance Count": 10,
+            "Main Result": {
+                "を": {
+                    "Furigana": "x ",
+                    "English Translation": {
+                        "Vocab0": "indicates direct object of action",
+                        "Vocab1": "indicates subject of causative expression",
+                        "Vocab2": "indicates an area traversed"
+                    }
+                }
+            }
+        },
+        "守ってくれてた": {
+            "Instance Count": 11,
+            "Furigana": "まもってくれてた",
+            "Main Result": {
+                "守る": {
+                    "Furigana": "まも x ",
+                    "English Translation": {
+                        "Vocab0": "to protect; to guard; to defend",
+                        "Vocab1": "to keep (i.e. a promise); to abide (by the rules); to observe; to obey; to follow",
+                        "Vocab2": "護る 【まもる】、戍る 【まもる】"
+                    }
+                }
+            }
+        },
+        "今頃": {
+            "Instance Count": 12,
+            "Furigana": "いまごろ",
+            "Main Result": {
+                "今頃": {
+                    "Furigana": "いま ごろ ",
+                    "English Translation": {
+                        "Vocab0": "about this time",
+                        "Vocab1": "今ごろ 【いまごろ】"
+                    }
+                }
+            }
+        },
+        "気づく": {
+            "Instance Count": 13,
+            "Furigana": "きづく",
+            "Main Result": {
+                "気づく": {
+                    "Furigana": "き x x ",
+                    "English Translation": {
+                        "Vocab0": "to notice; to realize; to realise; to become aware (of); to perceive; to sense; to suspect",
+                        "Vocab1": "to regain consciousness; to come to (one's senses); to come round",
+                        "Vocab2": "気付く 【きづく】"
+                    }
+                }
+            }
+        },
+        "ん": {
+            "Instance Count": 14,
+            "Main Result": {
+                "ん": {
+                    "Furigana": "x ",
+                    "English Translation": {
+                        "Vocab0": "yes; yeah; uh huh",
+                        "Vocab1": "huh?; what?",
+                        "Vocab2": "not"
+                    }
+                }
+            }
+        },
+        "だろ": {
+            "Instance Count": 15,
+            "Main Result": {
+                "だろう": {
+                    "Furigana": "x x x ",
+                    "English Translation": {
+                        "Vocab0": "seems; I think; I guess; I wonder; I hope",
+                        "Vocab1": "right?; don't you agree?; I thought you'd say that!",
+                        "Vocab2": "だろ"
+                    }
+                }
+            }
+        },
+        "う": {
+            "Instance Count": 16,
+            "Main Result": {
+                "卯": {
+                    "Furigana": "う ",
+                    "English Translation": {
+                        "Vocab0": "the Rabbit (fourth sign of the Chinese zodiac); the Hare",
+                        "Vocab1": "hour of the Rabbit (around 6am, 5-7am, or 6-8am)",
+                        "Vocab2": "east"
+                    }
+                }
+            }
+        },
+        "あんた": {
+            "Instance Count": 17,
+            "Main Result": {
+                "貴方": {
+                    "Furigana": "あんた x ",
+                    "English Translation": {
+                        "Vocab0": "you"
+                    }
+                }
+            }
+        },
+        "なんか": {
+            "Instance Count": 18,
+            "Main Result": {
+                "なんか": {
+                    "Furigana": "x x x ",
+                    "English Translation": {
+                        "Vocab0": "something like ...; things like ...; someone like ...; the likes of ..."
+                    }
+                }
+            }
+        },
+        "と": {
+            "Instance Count": 19,
+            "Main Result": {
+                "戸": {
+                    "Furigana": "と ",
+                    "English Translation": {
+                        "Vocab0": "door (esp. Japanese-style)",
+                        "Vocab1": "shutter; window shutter",
+                        "Vocab2": "entrance (to a home)"
+                    }
+                }
+            }
+        },
+        "違う": {
+            "Instance Count": 20,
+            "Furigana": "ちがう",
+            "Main Result": {
+                "違う": {
+                    "Furigana": "ちが x ",
+                    "English Translation": {
+                        "Vocab0": "to differ (from); to be different; to be distinct; to be unlike; to vary; to disagree (with)",
+                        "Vocab1": "to be wrong; to be incorrect; to be mistaken",
+                        "Vocab2": "to become abnormal; to go wrong"
+                    }
+                }
+            }
+        },
+        "から": {
+            "Instance Count": 21,
+            "Main Result": {
+                "から": {
+                    "Furigana": "x x ",
+                    "English Translation": {
+                        "Vocab0": "from (e.g. time, place, numerical quantity); since",
+                        "Vocab1": "from (originator); by",
+                        "Vocab2": "because; since"
+                    }
+                }
+            }
+        },
+        "まつ": {
+            "Instance Count": 22,
+            "Main Result": {
+                "待つ": {
+                    "Furigana": "ま x ",
+                    "English Translation": {
+                        "Vocab0": "to wait",
+                        "Vocab1": "to await; to look forward to; to anticipate",
+                        "Vocab2": "to depend on; to need"
+                    }
+                }
+            }
+        },
+        "すぐに": {
+            "Instance Count": 23,
+            "Main Result": {
+                "直ぐに": {
+                    "Furigana": "す x x ",
+                    "English Translation": {
+                        "Vocab0": "immediately; right away; at once; instantly"
+                    }
+                }
+            }
+        },
+        "想ってくれてた": {
+            "Instance Count": 24,
+            "Furigana": "おもってくれてた",
+            "Main Result": {
+                "思う": {
+                    "Furigana": "おも x ",
+                    "English Translation": {
+                        "Vocab0": "to think; to consider; to believe; to reckon",
+                        "Vocab1": "to think (of doing); to plan (to do)",
+                        "Vocab2": "to judge; to assess; to regard"
+                    }
+                }
+            }
+        },
+        "まっすぐ": {
+            "Instance Count": 25,
+            "Main Result": {
+                "真っ直ぐ": {
+                    "Furigana": "ま x す x ",
+                    "English Translation": {
+                        "Vocab0": "straight (ahead); direct; upright; erect",
+                        "Vocab1": "straightforward; honest; frank",
+                        "Vocab2": "真っすぐ 【まっすぐ】、真っ直 【まっすぐ】、真直ぐ 【まっすぐ】、真すぐ 【まっすぐ】"
+                    }
+                }
+            }
+        },
+        "に": {
+            "Instance Count": 26,
+            "Main Result": {
+                "二": {
+                    "Furigana": "に ",
+                    "English Translation": {
+                        "Vocab0": "two; 2",
+                        "Vocab1": "二 【ふた】、二 【ふ】、二 【ふう】、２ 【に】、２ 【ふた】、２ 【ふ】、２ 【ふう】、弐 【に】、弐 【ふた】、弐 【ふ】、弐 【ふう】、弍 【に】、弍 【ふた】、弍 【ふ】、弍 【ふう】、貳 【に】、貳 【ふた】、貳 【ふ】、貳 【ふう】、貮 【に】、貮 【ふた】、貮 【ふ】、貮 【ふう】"
+                    }
+                }
+            }
+        },
+        "やっと": {
+            "Instance Count": 27,
+            "Main Result": {
+                "漸と": {
+                    "Furigana": "やっ x ",
+                    "English Translation": {
+                        "Vocab0": "at last; finally",
+                        "Vocab1": "barely; narrowly; just; by the skin of one's teeth"
+                    }
+                }
+            }
+        },
+        "認めた": {
+            "Instance Count": 28,
+            "Furigana": "みとめた",
+            "Main Result": {
+                "認める": {
+                    "Furigana": "みと x x ",
+                    "English Translation": {
+                        "Vocab0": "to recognize; to recognise; to observe; to notice",
+                        "Vocab1": "to deem; to judge; to assess",
+                        "Vocab2": "to approve; to deem acceptable; to allow"
+                    }
+                }
+            }
+        },
+        "わけ": {
+            "Instance Count": 29,
+            "Main Result": {
+                "訳": {
+                    "Furigana": "わけ ",
+                    "English Translation": {
+                        "Vocab0": "conclusion from reasoning, judgement or calculation based on something read or heard; reason; cause; meaning; circumstances; situation"
+                    }
+                }
+            }
+        },
+        "だ": {
+            "Instance Count": 30,
+            "Main Result": {
+                "だ": {
+                    "Furigana": "x ",
+                    "English Translation": {
+                        "Vocab0": "be; is",
+                        "Vocab1": "did; (have) done",
+                        "Vocab2": "please; do"
+                    }
+                }
+            }
+        },
+        "の": {
+            "Instance Count": 31,
+            "Main Result": {
+                "の": {
+                    "Furigana": "x ",
+                    "English Translation": {
+                        "Vocab0": "indicates possessive",
+                        "Vocab1": "nominalizes verbs and adjectives",
+                        "Vocab2": "substitutes for \"ga\" in subordinate phrases"
+                    }
+                }
+            }
+        },
+        "だって": {
+            "Instance Count": 32,
+            "Main Result": {
+                "だって": {
+                    "Furigana": "x x x ",
+                    "English Translation": {
+                        "Vocab0": "after all; because",
+                        "Vocab1": "but",
+                        "Vocab2": "even"
+                    }
+                }
+            }
+        },
+        "こと": {
+            "Instance Count": 33,
+            "Main Result": {
+                "事": {
+                    "Furigana": "こと ",
+                    "English Translation": {
+                        "Vocab0": "thing; matter",
+                        "Vocab1": "incident; occurrence; event; something serious; trouble; crisis",
+                        "Vocab2": "circumstances; situation; state of affairs"
+                    }
+                }
+            }
+        },
+        "なんで": {
+            "Instance Count": 34,
+            "Main Result": {
+                "何で": {
+                    "Furigana": "なん x ",
+                    "English Translation": {
+                        "Vocab0": "why?; what for?",
+                        "Vocab1": "how?; by what means?"
+                    }
+                }
+            }
+        },
+        "あやまる": {
+            "Instance Count": 35,
+            "Main Result": {
+                "謝る": {
+                    "Furigana": "あやま x ",
+                    "English Translation": {
+                        "Vocab0": "to apologize; to apologise",
+                        "Vocab1": "to refuse; to decline",
+                        "Vocab2": "to be unable to bear; to be defeated (by); to be at a loss"
+                    }
+                }
+            }
+        },
+        "ね": {
+            "Instance Count": 36,
+            "Main Result": {
+                "根": {
+                    "Furigana": "ね ",
+                    "English Translation": {
+                        "Vocab0": "root (of a plant)",
+                        "Vocab1": "root (of a tooth, hair, etc.); center (of a pimple, etc.)",
+                        "Vocab2": "root (of all evil, etc.); source; origin; cause; basis"
+                    }
+                }
+            }
+        },
+        "もう": {
+            "Instance Count": 37,
+            "Main Result": {
+                "もう": {
+                    "Furigana": "x x ",
+                    "English Translation": {
+                        "Vocab0": "already; yet; by now; now; (not) any more; (not) any longer",
+                        "Vocab1": "soon; shortly; before long; presently",
+                        "Vocab2": "further; more; again; another; the other"
+                    }
+                }
+            }
+        },
+        "勝った": {
+            "Instance Count": 38,
+            "Furigana": "かった",
+            "Main Result": {
+                "勝つ": {
+                    "Furigana": "か x ",
+                    "English Translation": {
+                        "Vocab0": "to win; to gain victory",
+                        "Vocab1": "克つ 【かつ】、贏つ 【かつ】"
+                    }
+                }
+            }
+        },
+        "気": {
+            "Instance Count": 39,
+            "Furigana": "き",
+            "Main Result": {
+                "気": {
+                    "Furigana": "き ",
+                    "English Translation": {
+                        "Vocab0": "spirit; mind; heart",
+                        "Vocab1": "nature; disposition",
+                        "Vocab2": "intention; mind; will; motivation"
+                    }
+                }
+            }
+        },
+        "で": {
+            "Instance Count": 40,
+            "Main Result": {
+                "出": {
+                    "Furigana": "で ",
+                    "English Translation": {
+                        "Vocab0": "coming out; going out; outflow; efflux; rising (of the Sun or the Moon)",
+                        "Vocab1": "attending (work); appearing (on stage); one's turn to go on",
+                        "Vocab2": "start; beginning"
+                    }
+                }
+            }
+        },
+        "いる": {
+            "Instance Count": 41,
+            "Main Result": {
+                "居る": {
+                    "Furigana": "い x ",
+                    "English Translation": {
+                        "Vocab0": "to be (of animate objects); to exist",
+                        "Vocab1": "to stay",
+                        "Vocab2": "to be ...-ing; to have been ...-ing"
+                    }
+                }
+            }
+        },
+        "みたい": {
+            "Instance Count": 42,
+            "Main Result": {
+                "みたい": {
+                    "Furigana": "x x x ",
+                    "English Translation": {
+                        "Vocab0": "-like; sort of; similar to; resembling"
+                    }
+                }
+            }
+        },
+        "けど": {
+            "Instance Count": 43,
+            "Main Result": {
+                "けど": {
+                    "Furigana": "x x ",
+                    "English Translation": {
+                        "Vocab0": "but; however; although",
+                        "Vocab1": "けども"
+                    }
+                }
+            }
+        },
+        "今": {
+            "Instance Count": 44,
+            "Furigana": "いま",
+            "Main Result": {
+                "今": {
+                    "Furigana": "いま ",
+                    "English Translation": {
+                        "Vocab0": "now; the present time; just now; soon; immediately",
+                        "Vocab1": "another; more"
+                    }
+                }
+            }
+        },
+        "にとって": {
+            "Instance Count": 45,
+            "Main Result": {
+                "に取って": {
+                    "Furigana": "x と x x ",
+                    "English Translation": {
+                        "Vocab0": "to; for; from the standpoint of; as far as ... is concerned"
+                    }
+                }
+            }
+        },
+        "同じ": {
+            "Instance Count": 46,
+            "Furigana": "おなじ",
+            "Main Result": {
+                "同じ": {
+                    "Furigana": "おな x ",
+                    "English Translation": {
+                        "Vocab0": "same; identical; equal; alike; equivalent",
+                        "Vocab1": "anyway; in any case; if one must ...; if one has to ...; as long as ...",
+                        "Vocab2": "同じ 【おんなじ】"
+                    }
+                }
+            }
+        },
+        "立場": {
+            "Instance Count": 47,
+            "Furigana": "たちば",
+            "Main Result": {
+                "立場": {
+                    "Furigana": "たち ば ",
+                    "English Translation": {
+                        "Vocab0": "position; situation",
+                        "Vocab1": "viewpoint; standpoint; point of view"
+                    }
+                }
+            }
+        },
+        "わかってる": {
+            "Instance Count": 48,
+            "Main Result": {
+                "分かる": {
+                    "Furigana": "わ x x ",
+                    "English Translation": {
+                        "Vocab0": "to understand; to comprehend; to grasp; to see; to get; to follow",
+                        "Vocab1": "to become clear; to be known; to be discovered; to be realized; to be realised; to be found out",
+                        "Vocab2": "I know!; I think so too!"
+                    }
+                }
+            }
+        },
+        "そう": {
+            "Instance Count": 49,
+            "Main Result": {
+                "僧": {
+                    "Furigana": "そう ",
+                    "English Translation": {
+                        "Vocab0": "monk; priest",
+                        "Vocab1": "sangha (the Buddhist community)",
+                        "Vocab2": "Sangha"
+                    }
+                }
+            }
+        },
+        "特別": {
+            "Instance Count": 50,
+            "Furigana": "とくべつ",
+            "Main Result": {
+                "特別": {
+                    "Furigana": "とく べつ ",
+                    "English Translation": {
+                        "Vocab0": "special; particular; extraordinary; exceptional; especial",
+                        "Vocab1": "Particular"
+                    }
+                }
+            }
+        },
+        "じゃない": {
+            "Instance Count": 51,
+            "Main Result": {
+                "じゃない": {
+                    "Furigana": "x x x x ",
+                    "English Translation": {
+                        "Vocab0": "is not; am not; are not",
+                        "Vocab1": "isn't it?",
+                        "Vocab2": "ぢゃない"
+                    }
+                }
+            }
+        },
+        "記憶": {
+            "Instance Count": 52,
+            "Furigana": "きおく",
+            "Main Result": {
+                "記憶": {
+                    "Furigana": "き おく ",
+                    "English Translation": {
+                        "Vocab0": "memory; recollection; remembrance",
+                        "Vocab1": "memory; storage",
+                        "Vocab2": "Memory"
+                    }
+                }
+            }
+        },
+        "が": {
+            "Instance Count": 53,
+            "Main Result": {
+                "が": {
+                    "Furigana": "x ",
+                    "English Translation": {
+                        "Vocab0": "indicates the subject of a sentence",
+                        "Vocab1": "indicates possession",
+                        "Vocab2": "but; however; (and) yet; though; although; while"
+                    }
+                }
+            }
+        },
+        "戻っ": {
+            "Instance Count": 54,
+            "Furigana": "もどっ",
+            "Main Result": {
+                "戻る": {
+                    "Furigana": "もど x ",
+                    "English Translation": {
+                        "Vocab0": "to turn back (e.g. half-way)",
+                        "Vocab1": "to return; to go back",
+                        "Vocab2": "to recover (e.g. something lost); to be returned"
+                    }
+                }
+            }
+        },
+        "たって": {
+            "Instance Count": 55,
+            "Main Result": {
+                "たって": {
+                    "Furigana": "x x x ",
+                    "English Translation": {
+                        "Vocab0": "even if; even though",
+                        "Vocab1": "however; no matter how"
+                    }
+                }
+            }
+        },
+        "もたもた": {
+            "Instance Count": 56,
+            "Main Result": {
+                "もたもた": {
+                    "Furigana": "x x x x ",
+                    "English Translation": {
+                        "Vocab0": "slowly; inefficiently; tardily; dawdling",
+                        "Vocab1": "モタモタ"
+                    }
+                }
+            }
+        },
+        "して": {
+            "Instance Count": 57,
+            "Main Result": {
+                "仕手": {
+                    "Furigana": "し て ",
+                    "English Translation": {
+                        "Vocab0": "doer; performer",
+                        "Vocab1": "shite; protagonist; hero; leading part; main character",
+                        "Vocab2": "speculator (in trading)"
+                    }
+                }
+            }
+        },
+        "て": {
+            "Instance Count": 58,
+            "Main Result": {
+                "手": {
+                    "Furigana": "て ",
+                    "English Translation": {
+                        "Vocab0": "hand; arm",
+                        "Vocab1": "forepaw; foreleg",
+                        "Vocab2": "handle"
+                    }
+                }
+            }
+        },
+        "また": {
+            "Instance Count": 59,
+            "Main Result": {
+                "又": {
+                    "Furigana": "また ",
+                    "English Translation": {
+                        "Vocab0": "again; once more; once again; another time; some other time",
+                        "Vocab1": "also; too; as well; likewise",
+                        "Vocab2": "on the other hand; while"
+                    }
+                }
+            }
+        },
+        "何か": {
+            "Instance Count": 60,
+            "Furigana": "なにか",
+            "Main Result": {
+                "何か": {
+                    "Furigana": "なに x ",
+                    "English Translation": {
+                        "Vocab0": "something; some; any",
+                        "Vocab1": "somehow; for some reason",
+                        "Vocab2": "(so) what (are you trying to say)?; what (do you mean)?"
+                    }
+                }
+            }
+        },
+        "あったら": {
+            "Instance Count": 61,
+            "Main Result": {
+                "可惜": {
+                    "Furigana": "あたら x ",
+                    "English Translation": {
+                        "Vocab0": "alas; regrettably; to my great regret; tragically",
+                        "Vocab1": "可惜 【あったら】、惜 【あたら】、惜 【あったら】"
+                    }
+                }
+            }
+        },
+        "すん": {
+            "Instance Count": 62,
+            "Main Result": {
+                "寸": {
+                    "Furigana": "すん ",
+                    "English Translation": {
+                        "Vocab0": "sun (approx. 3 cm)",
+                        "Vocab1": "length; measurement",
+                        "Vocab2": "shortness; tininess"
+                    }
+                }
+            }
+        },
+        "よ": {
+            "Instance Count": 63,
+            "Main Result": {
+                "世": {
+                    "Furigana": "よ ",
+                    "English Translation": {
+                        "Vocab0": "world; society; public",
+                        "Vocab1": "life; lifetime",
+                        "Vocab2": "age; era; period; epoch; generation"
+                    }
+                }
+            }
+        },
+        "駅前": {
+            "Instance Count": 64,
+            "Furigana": "えきまえ",
+            "Main Result": {
+                "駅前": {
+                    "Furigana": "えき まえ ",
+                    "English Translation": {
+                        "Vocab0": "in front of a station",
+                        "Vocab1": "Ekimae"
+                    }
+                }
+            }
+        },
+        "公園": {
+            "Instance Count": 65,
+            "Furigana": "こうえん",
+            "Main Result": {
+                "公園": {
+                    "Furigana": "こう えん ",
+                    "English Translation": {
+                        "Vocab0": "(public) park",
+                        "Vocab1": "Park"
+                    }
+                }
+            }
+        },
+        "待ってる": {
+            "Instance Count": 66,
+            "Furigana": "まってる",
+            "Main Result": {
+                "待つ": {
+                    "Furigana": "ま x ",
+                    "English Translation": {
+                        "Vocab0": "to wait",
+                        "Vocab1": "to await; to look forward to; to anticipate",
+                        "Vocab2": "to depend on; to need"
+                    }
+                }
+            }
+        },
+        "来てくれ": {
+            "Instance Count": 67,
+            "Furigana": "きてくれ",
+            "Main Result": {
+                "来る": {
+                    "Furigana": "く x ",
+                    "English Translation": {
+                        "Vocab0": "to come (spatially or temporally); to approach; to arrive",
+                        "Vocab1": "to come back; to do ... and come back",
+                        "Vocab2": "to come to be; to become; to get; to grow; to continue"
+                    }
+                }
+            }
+        },
+        "って": {
+            "Instance Count": 68,
+            "Main Result": {
+                "って": {
+                    "Furigana": "x x ",
+                    "English Translation": {
+                        "Vocab0": "you said; he said; she said; they said",
+                        "Vocab1": "even if",
+                        "Vocab2": "do you seriously think that"
+                    }
+                }
+            }
+        },
+        "今日": {
+            "Instance Count": 69,
+            "Furigana": "きょう",
+            "Main Result": {
+                "今日": {
+                    "Furigana": "きょう x ",
+                    "English Translation": {
+                        "Vocab0": "today; this day",
+                        "Vocab1": "these days; recently; nowadays",
+                        "Vocab2": "今日 【こんにち】、今日 【こんち】、今日 【こんじつ】"
+                    }
+                }
+            }
+        },
+        "戻らなかったら": {
+            "Instance Count": 70,
+            "Furigana": "もどらなかったら",
+            "Main Result": {
+                "戻る": {
+                    "Furigana": "もど x ",
+                    "English Translation": {
+                        "Vocab0": "to turn back (e.g. half-way)",
+                        "Vocab1": "to return; to go back",
+                        "Vocab2": "to recover (e.g. something lost); to be returned"
+                    }
+                }
+            }
+        },
+        "ムダ": {
+            "Instance Count": 71,
+            "Main Result": {
+                "無駄": {
+                    "Furigana": "",
+                    "English Translation": {
+                        "Vocab0": "futility; waste; uselessness; pointlessness; idleness",
+                        "Vocab1": "徒 【むだ】、ムダ"
+                    }
+                }
+            }
+        },
+        "なってた": {
+            "Instance Count": 72,
+            "Main Result": {
+                "成る": {
+                    "Furigana": "な x ",
+                    "English Translation": {
+                        "Vocab0": "to become; to get; to grow; to turn; to reach; to attain",
+                        "Vocab1": "to result in; to turn out; to end up; to prove (to be)",
+                        "Vocab2": "to consist of; to be composed of; to be made up of"
+                    }
+                }
+            }
+        },
+        "や": {
+            "Instance Count": 73,
+            "Main Result": {
+                "矢": {
+                    "Furigana": "や ",
+                    "English Translation": {
+                        "Vocab0": "arrow",
+                        "Vocab1": "wedge; chock",
+                        "Vocab2": "Ya"
+                    }
+                }
+            }
+        },
+        "高かっ": {
+            "Instance Count": 74,
+            "Furigana": "たかかっ",
+            "Main Result": {
+                "高い": {
+                    "Furigana": "たか x ",
+                    "English Translation": {
+                        "Vocab0": "high; tall",
+                        "Vocab1": "expensive; high-priced",
+                        "Vocab2": "high (level); above average (in degree, quality, etc.)"
+                    }
+                }
+            }
+        },
+        "もったいない": {
+            "Instance Count": 75,
+            "Main Result": {
+                "勿体ない": {
+                    "Furigana": "もったい x x x ",
+                    "English Translation": {
+                        "Vocab0": "wasteful; a waste",
+                        "Vocab1": "too good; more than one deserves; unworthy of",
+                        "Vocab2": "impious; profane; sacrilegious"
+                    }
+                }
+            }
+        },
+        "じゃん": {
+            "Instance Count": 76,
+            "Main Result": {
+                "じゃん": {
+                    "Furigana": "x x x ",
+                    "English Translation": {
+                        "Vocab0": "isn't it?; don't you think?; right?; surely; come on"
+                    }
+                }
+            }
+        },
+        "あっと": {
+            "Instance Count": 77,
+            "Main Result": {
+                "アット": {
+                    "Furigana": "x x x ",
+                    "English Translation": {
+                        "Vocab0": "@ sign; at sign"
+                    }
+                }
+            }
+        },
+        "こういう": {
+            "Instance Count": 78,
+            "Main Result": {
+                "こう言う": {
+                    "Furigana": "x x い x ",
+                    "English Translation": {
+                        "Vocab0": "such; this sort of; like this",
+                        "Vocab1": "こう言う 【こうゆう】、こーゆー"
+                    }
+                }
+            }
+        },
+        "言わない": {
+            "Instance Count": 79,
+            "Furigana": "いわない",
+            "Main Result": {
+                "言う": {
+                    "Furigana": "い x ",
+                    "English Translation": {
+                        "Vocab0": "to say; to utter; to declare",
+                        "Vocab1": "to name; to call",
+                        "Vocab2": "to go (e.g. \"the alarm went ping\"); to make a noise"
+                    }
+                }
+            }
+        },
+        "方": {
+            "Instance Count": 80,
+            "Furigana": "ほう",
+            "Main Result": {
+                "方": {
+                    "Furigana": "ほう ",
+                    "English Translation": {
+                        "Vocab0": "direction; way; side; area (in a particular direction)",
+                        "Vocab1": "side (of an argument, etc.); one's part",
+                        "Vocab2": "type; category"
+                    }
+                }
+            }
+        },
+        "いい": {
+            "Instance Count": 81,
+            "Main Result": {
+                "良い": {
+                    "Furigana": "よ x ",
+                    "English Translation": {
+                        "Vocab0": "good; excellent; fine; nice; pleasant; agreeable",
+                        "Vocab1": "sufficient; enough; ready; prepared",
+                        "Vocab2": "profitable (deal, business offer, etc.); beneficial"
+                    }
+                }
+            }
+        },
+        "か": {
+            "Instance Count": 82,
+            "Main Result": {
+                "課": {
+                    "Furigana": "か ",
+                    "English Translation": {
+                        "Vocab0": "lesson",
+                        "Vocab1": "section (in an organization); division; department",
+                        "Vocab2": "counter for lessons and chapters (of a book)"
+                    }
+                }
+            }
+        },
+        "ー": {
+            "Instance Count": 83,
+            "Main Result": {
+                "ー": {
+                    "Furigana": "x ",
+                    "English Translation": {
+                        "Vocab0": "long-vowel mark"
+                    }
+                }
+            }
+        },
+        "な": {
+            "Instance Count": 84,
+            "Main Result": {
+                "な": {
+                    "Furigana": "x ",
+                    "English Translation": {
+                        "Vocab0": "don't",
+                        "Vocab1": "do",
+                        "Vocab2": "hey; listen; look; say"
+                    }
+                }
+            }
+        },
+        "ムチャクチャ": {
+            "Instance Count": 85,
+            "Main Result": {
+                "無茶苦茶": {
+                    "Furigana": "",
+                    "English Translation": {
+                        "Vocab0": "nonsensical; unreasonable; absurd; unrealistic",
+                        "Vocab1": "awfully; extremely; to excess; senseless; reckless",
+                        "Vocab2": "disorder; confusion; being jumbled; being mixed up"
+                    }
+                }
+            }
+        },
+        "高かった": {
+            "Instance Count": 86,
+            "Furigana": "たかかった",
+            "Main Result": {
+                "高い": {
+                    "Furigana": "たか x ",
+                    "English Translation": {
+                        "Vocab0": "high; tall",
+                        "Vocab1": "expensive; high-priced",
+                        "Vocab2": "high (level); above average (in degree, quality, etc.)"
+                    }
+                }
+            }
+        },
+        "さ": {
+            "Instance Count": 87,
+            "Main Result": {
+                "差": {
+                    "Furigana": "さ ",
+                    "English Translation": {
+                        "Vocab0": "difference; variation",
+                        "Vocab1": "difference"
+                    }
+                }
+            }
+        },
+        "誕生日": {
+            "Instance Count": 88,
+            "Furigana": "たんじょうび",
+            "Main Result": {
+                "誕生日": {
+                    "Furigana": "たん じょう び ",
+                    "English Translation": {
+                        "Vocab0": "birthday",
+                        "Vocab1": "Birthday"
+                    }
+                }
+            }
+        },
+        "花束": {
+            "Instance Count": 89,
+            "Furigana": "はなたば",
+            "Main Result": {
+                "花束": {
+                    "Furigana": "はな たば ",
+                    "English Translation": {
+                        "Vocab0": "bunch of flowers; bouquet"
+                    }
+                }
+            }
+        },
+        "なんて": {
+            "Instance Count": 90,
+            "Main Result": {
+                "何て": {
+                    "Furigana": "なん x ",
+                    "English Translation": {
+                        "Vocab0": "how ...!; what ...!",
+                        "Vocab1": "what?; what's that?"
+                    }
+                }
+            }
+        },
+        "それ": {
+            "Instance Count": 91,
+            "Main Result": {
+                "其れ": {
+                    "Furigana": "そ x ",
+                    "English Translation": {
+                        "Vocab0": "that; it",
+                        "Vocab1": "then; that point (in time); that time",
+                        "Vocab2": "there"
+                    }
+                }
+            }
+        },
+        "からかわれて": {
+            "Instance Count": 92,
+            "Main Result": {
+                "揶揄う": {
+                    "Furigana": "か らか x ",
+                    "English Translation": {
+                        "Vocab0": "to tease; to make fun of; to poke fun at; to make a crack about; to chaff; to kid; to joke; to banter; to pull someone's leg"
+                    }
+                }
+            }
+        },
+        "日本": {
+            "Instance Count": 93,
+            "Furigana": "にっぽん",
+            "Main Result": {
+                "日本": {
+                    "Furigana": "にほん x ",
+                    "English Translation": {
+                        "Vocab0": "Japan",
+                        "Vocab1": "Japan",
+                        "Vocab2": "日本 【にっぽん】"
+                    }
+                }
+            }
+        },
+        "選ぶ": {
+            "Instance Count": 94,
+            "Furigana": "えらぶ",
+            "Main Result": {
+                "選ぶ": {
+                    "Furigana": "えら x ",
+                    "English Translation": {
+                        "Vocab0": "to choose; to select",
+                        "Vocab1": "撰ぶ 【えらぶ】、択ぶ 【えらぶ】"
+                    }
+                }
+            }
+        },
+        "人": {
+            "Instance Count": 95,
+            "Furigana": "ひと",
+            "Main Result": {
+                "人": {
+                    "Furigana": "ひと ",
+                    "English Translation": {
+                        "Vocab0": "person; someone; somebody",
+                        "Vocab1": "human beings; mankind; man; people; humans",
+                        "Vocab2": "human (Homo sapiens)"
+                    }
+                }
+            }
+        },
+        "経験してもらえました": {
+            "Instance Count": 96,
+            "Furigana": "けいけんしてもらえました",
+            "Main Result": {
+                "経験": {
+                    "Furigana": "けい けん ",
+                    "English Translation": {
+                        "Vocab0": "experience",
+                        "Vocab1": "Experience"
+                    }
+                }
+            }
+        },
+        "まだ": {
+            "Instance Count": 97,
+            "Main Result": {
+                "未だ": {
+                    "Furigana": "ま x ",
+                    "English Translation": {
+                        "Vocab0": "still; as yet; only",
+                        "Vocab1": "(not) yet",
+                        "Vocab2": "more; (more) still"
+                    }
+                }
+            }
+        },
+        "まで": {
+            "Instance Count": 98,
+            "Main Result": {
+                "迄": {
+                    "Furigana": "まで ",
+                    "English Translation": {
+                        "Vocab0": "until (a time); till; to; up to",
+                        "Vocab1": "to (a place or person); as far as",
+                        "Vocab2": "to (an extent); up to; so far as; even"
+                    }
+                }
+            }
+        },
+        "しております": {
+            "Instance Count": 99,
+            "Main Result": {
+                "仕手": {
+                    "Furigana": "し て ",
+                    "English Translation": {
+                        "Vocab0": "doer; performer",
+                        "Vocab1": "shite; protagonist; hero; leading part; main character",
+                        "Vocab2": "speculator (in trading)"
+                    }
+                }
+            }
+        },
+        "出来ない": {
+            "Instance Count": 100,
+            "Furigana": "できない",
+            "Main Result": {
+                "出来る": {
+                    "Furigana": "で き x ",
+                    "English Translation": {
+                        "Vocab0": "to be able to do; to be possible; to be permitted (to do)",
+                        "Vocab1": "to be good at; to do well; to be proficient (in); to be capable",
+                        "Vocab2": "to come into existence; to form; to appear; to come up (of a matter); to be born; to make (a friend); to get (a girlfriend, free time, etc.)"
+                    }
+                }
+            }
+        },
+        "状態": {
+            "Instance Count": 101,
+            "Furigana": "じょうたい",
+            "Main Result": {
+                "状態": {
+                    "Furigana": "じょう たい ",
+                    "English Translation": {
+                        "Vocab0": "state; condition; situation; appearance; circumstances",
+                        "Vocab1": "情態 【じょうたい】"
+                    }
+                }
+            }
+        },
+        "なってしまいます": {
+            "Instance Count": 102,
+            "Main Result": {
+                "成る": {
+                    "Furigana": "な x ",
+                    "English Translation": {
+                        "Vocab0": "to become; to get; to grow; to turn; to reach; to attain",
+                        "Vocab1": "to result in; to turn out; to end up; to prove (to be)",
+                        "Vocab2": "to consist of; to be composed of; to be made up of"
+                    }
+                }
+            }
+        },
+        "お客さん": {
+            "Instance Count": 103,
+            "Furigana": "おきゃくさん",
+            "Main Result": {
+                "お客さん": {
+                    "Furigana": "x きゃく x x ",
+                    "English Translation": {
+                        "Vocab0": "guest; visitor",
+                        "Vocab1": "customer; client; shopper; spectator; audience; tourist; sightseer; passenger"
+                    }
+                }
+            }
+        },
+        "お知らせ": {
+            "Instance Count": 104,
+            "Furigana": "おしらせ",
+            "Main Result": {
+                "お知らせ": {
+                    "Furigana": "x し x x ",
+                    "English Translation": {
+                        "Vocab0": "notice; notification",
+                        "Vocab1": "お報せ 【おしらせ】"
+                    }
+                }
+            }
+        },
+        "いたい": {
+            "Instance Count": 105,
+            "Main Result": {
+                "痛い": {
+                    "Furigana": "いた x ",
+                    "English Translation": {
+                        "Vocab0": "painful; sore",
+                        "Vocab1": "cringy; embarrassing",
+                        "Vocab2": "甚い 【いたい】"
+                    }
+                }
+            }
+        },
+        "という": {
+            "Instance Count": 106,
+            "Main Result": {
+                "と言う": {
+                    "Furigana": "x い x ",
+                    "English Translation": {
+                        "Vocab0": "called; named; that says; that",
+                        "Vocab1": "as many as; as much as",
+                        "Vocab2": "all ...; every single ..."
+                    }
+                }
+            }
+        },
+        "好み": {
+            "Instance Count": 107,
+            "Furigana": "このみ",
+            "Main Result": {
+                "好み": {
+                    "Furigana": "この x ",
+                    "English Translation": {
+                        "Vocab0": "liking; taste; fancy; fondness",
+                        "Vocab1": "wish; desire; choice; preference"
+                    }
+                }
+            }
+        },
+        "たいと": {
+            "Instance Count": 108,
+            "Main Result": {
+                "タイト": {
+                    "Furigana": "x x x ",
+                    "English Translation": {
+                        "Vocab0": "tight",
+                        "Vocab1": "tight skirt; straight skirt"
+                    }
+                }
+            }
+        }
+    }
+]
